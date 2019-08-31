@@ -11,7 +11,7 @@ The output will be Predicted class Name and its probability.
 <img src ="images/Predictions.png">
 
 
-## PROJECT DEMO For Image Classification
+## Video DEMO For Image Classification
 
 [![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/9w5Z9Jv_m5A/mq1.jpg?sqp=CODOp-sF&rs=AOn4CLBa6U9MsPKAf_QWSTaeAKfsmeVlJw)](https://youtu.be/9w5Z9Jv_m5A)
 
